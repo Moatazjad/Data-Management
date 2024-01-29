@@ -1,0 +1,39 @@
+C:\Users\moata\Desktop\try2\try2\bin\Debug\try2.exe.config
+C:\Users\moata\Desktop\try2\try2\bin\Debug\try2.exe
+C:\Users\moata\Desktop\try2\try2\bin\Debug\try2.pdb
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.Form1.resources
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.Form2.resources
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.Form3.resources
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.Properties.Resources.resources
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.csproj.GenerateResource.cache
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.exe
+C:\Users\moata\Desktop\try2\try2\obj\Debug\try2.pdb
+C:\Users\moata\Desktop\syntax squad\try2\bin\Debug\try2.exe.config
+C:\Users\moata\Desktop\syntax squad\try2\bin\Debug\try2.exe
+C:\Users\moata\Desktop\syntax squad\try2\bin\Debug\try2.pdb
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.Form1.resources
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.Form2.resources
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.Form3.resources
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.Properties.Resources.resources
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.csproj.GenerateResource.cache
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.exe
+C:\Users\moata\Desktop\syntax squad\try2\obj\Debug\try2.pdb
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\bin\Debug\try2.exe.config
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\bin\Debug\try2.exe
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\bin\Debug\try2.pdb
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.csproj.AssemblyReference.cache
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.Form1.resources
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.Form2.resources
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.Form3.resources
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.Properties.Resources.resources
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.csproj.GenerateResource.cache
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.csproj.CoreCompileInputs.cache
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.exe
+C:\Users\moata\Desktop\syntax squaddd\syntax squad\try2\obj\Debug\try2.pdb
